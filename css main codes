@@ -1,0 +1,81 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'montserrat', sans-serif;
+  background-image: url('imgurs.jpg');
+}
+
+
+.container{
+  text-align: center
+}
+
+.value_app h1{
+  padding: 15px;
+  margin: 0 auto;
+  font-size: 1.9em;
+}
+
+
+.locates{
+  color: #fff;
+  font-size: 170px;
+  font-weight: 300;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.temps{
+  color: #fff;
+  font-size: 95px;
+  font-weight: 600px;
+  margin: 30px 0px;
+  text-shadow: 2px 10px rgba(0, 0, 0, 0.6);
+}
+
+.descrip{
+  color:#fff;
+  font-size: 32px;
+  font-weight: 700;
+  font-style: italic;
+  margin-bottom: 15px;
+  text-shadow: 0px 3px rgba(0, 0, 0, 0.4);
+
+}
+
+.prep{
+  color: #fff;
+  font-size: 29px;
+  font-weight: 600;
+  font-style: italic;
+  margin-bottom: 13px;
+  text-shadow: 0px 3px rgba(0, 0, 0, 0.4);
+}
+
+.humin{
+  color: #fff;
+  font-size: 29px;
+  font-weight: 600;
+  font-style: italic;
+  margin-bottom: 13px;
+  text-shadow: 0px 3px rgba(0, 0, 0, 0.4);
+}
+
+.winds{
+  color: #fff;
+  font-size: 29px;
+  font-weight: 600;
+  font-style: italic;
+  margin-bottom: 13px;
+  text-shadow: 0px 3px rgba(0, 0, 0, 0.4);
+}
+
+.giventime{
+  color: #fff;
+  font-size: 40px;
+  font-weight: 50;
+}
